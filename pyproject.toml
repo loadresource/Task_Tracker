@@ -9,4 +9,4 @@ version = "0.1.0"
 dependencies = []
 
 [project.scripts]
-task-tracker = "task-tracker.main:main"
+task-tracker = "task_tracker.main:main"
