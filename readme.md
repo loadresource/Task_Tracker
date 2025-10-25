@@ -1,6 +1,6 @@
 # Task Tracker
 
-Simple CLI task tracker that stores tasks in JSON files.
+Simple CLI task tracker that stores tasks in JSON files; see the project on [roadmap.sh](https://roadmap.sh/projects/task-tracker).
 
 ## Features
 - Add tasks with automatic ID generation.
