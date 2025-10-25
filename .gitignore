@@ -1,4 +1,4 @@
 /build/
-
+/task_tracker.egg-info/
 __pycache__
 *.json
