@@ -1,4 +1,4 @@
-import sysargs
+from functions import sysargs
 
 def main():
     parser = sysargs.create_parser()
