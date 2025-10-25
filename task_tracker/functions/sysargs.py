@@ -1,5 +1,5 @@
 import argparse
-import task_property
+from . import task_property
 
 
 # Función para crear el parser de argumentos
